@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagewoodard
+- 👋 Hi, I’m @sagewoodard. B.S. in CS, Dec 2023
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me www.linkedin.com/in/sagewoodard
