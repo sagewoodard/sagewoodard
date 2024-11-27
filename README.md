@@ -1,4 +1,4 @@
-- 🎓 Education: B.S. in Computer Science (Dec 2023), M.S. in Computer Science (Dec 2025)
+- 🎓 Education: M.S. in Computer Science (2025), B.S. in Computer Science (2023)
 - 👩‍💻 Experience: Software engineer with 2+ years of experience
 - 🤖 Interests: AI, machine learning, data science, cloud computing
 - ⚙️ Skills: Python, PyTorch, TensorFlow, Git, AWS
