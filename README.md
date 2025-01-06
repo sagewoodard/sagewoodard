@@ -1,8 +1,8 @@
 - 🎓 Education: M.S. in Computer Science (2025), B.S. in Computer Science (2023)
 - 👩‍💻 Experience: Software engineer with 2+ years of experience
-- 🤖 Interests: AI, machine learning, data science, cloud computing
+- 🤖 Interests: machine learning, data science, game development, cloud computing
 - ⚙️ Skills: Python, PyTorch, TensorFlow, Git, AWS
-- 📚 Current Research: Exploring satellite imagery-based terrain generation using Stable Diffusion and deep learning techniques for VR applications
+- 📚 Current Research: Exploring satellite imagery-based terrain generation using Stable Diffusion and deep learning techniques for VR and gaming applications
 - 🔗 Contact: sagewoodard@ksu.edu | https://www.linkedin.com/in/sagewoodard/
 
 - Hi, I’m Sage—let’s connect and collaborate!
