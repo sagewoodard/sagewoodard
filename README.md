@@ -6,7 +6,7 @@ Hi, I’m Sage. Let’s connect and collaborate!
 - 🎓 Education: B.S. in Computer Science (2023)
 - 👾 Interests: Full-stack and back-end web development
 - ⚙️ Skills: Python, JavaScript, CSS, SQL, etc.
-- 🔗 Portfolio: sageainsley.com | LinkedIn: https://www.linkedin.com/in/sagewoodard/
+- 🔗 Portfolio: http://www.sageainsley.com | LinkedIn: https://www.linkedin.com/in/sagewoodard/
 
 <!---
 sagewoodard/sagewoodard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
