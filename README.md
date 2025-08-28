@@ -1,6 +1,6 @@
 ![Sage Woodard – Software Engineer](banner.png)
 
-- Hi, I’m Sage. Let’s connect and collaborate!
+Hi, I’m Sage. Let’s connect and collaborate!
 
 - 👩‍💻 Experience: Software engineer with 3+ years of experience
 - 🎓 Education: B.S. in Computer Science (2023)
