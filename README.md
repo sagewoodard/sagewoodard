@@ -1,3 +1,5 @@
+![Sage Woodard – Software Engineer](banner.png)
+
 - 🎓 Education: M.S. in Computer Science (2025), B.S. in Computer Science (2023)
 - 👩‍💻 Experience: Software engineer with 2+ years of experience
 - 🤖 Interests: machine learning, data science, game development, cloud computing
