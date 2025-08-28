@@ -1,13 +1,12 @@
 ![Sage Woodard – Software Engineer](banner.png)
 
-- 🎓 Education: M.S. in Computer Science (2025), B.S. in Computer Science (2023)
-- 👩‍💻 Experience: Software engineer with 2+ years of experience
-- 🤖 Interests: machine learning, data science, game development, cloud computing
-- ⚙️ Skills: Python, PyTorch, TensorFlow, Git, AWS
-- 📚 Current Research: Exploring satellite imagery-based terrain generation using Stable Diffusion and deep learning techniques for VR and gaming applications
-- 🔗 Contact: sagewoodard@ksu.edu | https://www.linkedin.com/in/sagewoodard/
+- Hi, I’m Sage. Let’s connect and collaborate!
 
-- Hi, I’m Sage—let’s connect and collaborate!
+- 👩‍💻 Experience: Software engineer with 3+ years of experience
+- 🎓 Education: B.S. in Computer Science (2023)
+- 👾 Interests: Full-stack and back-end web development
+- ⚙️ Skills: Python, JavaScript, CSS, SQL, etc.
+- 🔗 Portfolio: sageainsley.com | LinkedIn: https://www.linkedin.com/in/sagewoodard/
 
 <!---
 sagewoodard/sagewoodard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
