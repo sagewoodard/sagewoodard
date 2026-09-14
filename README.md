@@ -10,8 +10,7 @@ Python • SQL • Pandas • NumPy • Matplotlib • Plotly • scikit-learn �
 Also experienced with:
 Perl • PHP • PowerShell • Bash • Java • C++ • MySQL • PostgreSQL • AWS • Google Cloud • Docker • Git/GitHub
 
-Current Focus
-
+Current Focus:
 📊 Data science and analytics
 🐍 Python-based data analysis
 🤖 Machine learning and AI
