@@ -12,11 +12,11 @@ Perl • PHP • PowerShell • Bash • Java • C++ • MySQL • PostgreSQL �
 
 Current Focus
 
-📊 Data science and analytics
-🐍 Python-based data analysis
-🤖 Machine learning and AI
-🗄️ SQL and data engineering
-💻 Software engineering
+-📊 Data science and analytics
+-🐍 Python-based data analysis
+-🤖 Machine learning and AI
+-🗄️ SQL and data engineering
+-💻 Software engineering
 
 [LinkedIn](https://www.linkedin.com/in/sagewoodard/)
 
