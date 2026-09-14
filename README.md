@@ -1,12 +1,24 @@
-![Sage Woodard – Software Engineer](banner.png)
+Hi, I'm Sage 👋
 
-Hi, I’m Sage. Let’s connect and collaborate!
+I'm a software engineer with a B.S. in Computer Science and currently pursuing an M.S. in Business Analytics and Data Science.
 
-- 👩‍💻 Experience: Software engineer with 3+ years of experience
-- 🎓 Education: B.S. in Computer Science (2023)
-- 👾 Interests: Full-stack and back-end web development
-- ⚙️ Skills: Python, JavaScript, CSS, SQL, etc.
-- 🔗 Portfolio: http://www.sageainsley.com | LinkedIn: https://www.linkedin.com/in/sagewoodard/
+My professional background is in software engineering, production troubleshooting, automation, source control, and AI-related projects. I'm currently expanding my work in data science and analytics through graduate coursework and personal projects.
+
+Currently working with:
+Python • SQL • Pandas • NumPy • Matplotlib • Plotly • scikit-learn • PyTorch • TensorFlow
+
+Also experienced with:
+Perl • PHP • PowerShell • Bash • Java • C++ • MySQL • PostgreSQL • AWS • Google Cloud • Docker • Git/GitHub
+
+Current Focus
+
+📊 Data science and analytics
+🐍 Python-based data analysis
+🤖 Machine learning and AI
+🗄️ SQL and data engineering
+💻 Software engineering
+
+[LinkedIn](https://www.linkedin.com/in/sagewoodard/)
 
 <!---
 sagewoodard/sagewoodard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
